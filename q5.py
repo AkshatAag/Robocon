@@ -1,4 +1,3 @@
-import re
 def val(a):
     if a=='A':
         return 1
